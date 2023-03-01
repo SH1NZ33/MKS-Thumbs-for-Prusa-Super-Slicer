@@ -18,3 +18,9 @@ Configuration required in the slicer:
     - Bed on thumbnail: None
 
 ![scr02](scr02.png)
+
+At each slicing, the script will automatically start replacing all the previews so that they are correctly read by the printer :
+
+![scr03](scr03.png)
+![scr04](scr04.jpg)
+![scr05](scr05.jpg)
