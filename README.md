@@ -5,7 +5,7 @@ Convert PNG thumbnails from Gcode to MKS thumbnails
 
 Configuration required in the slicer:
 
-- Print Settings > Output Options > Post-processing script : "PythonPath\python.exe" "PythonScript\convert_png-thumbs_to_mks-thumbs.py"
+- Print Settings > Output Options > Post-processing script : "PythonPath\python.exe" "PythonScript\png2mks_thumbs.py"
 
 ![scr01](scr01.png)
 
