@@ -16,3 +16,5 @@ Configuration required in the slicer:
   - Thumbnail option
     - Format of G-code thumbnails: PNG
     - Bed on thumbnail: None
+
+![scr02](scr02.png)
