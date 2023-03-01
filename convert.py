@@ -4,7 +4,6 @@
     optimized for wanhao D12
 
     (c) Shinzee
-    robin.poirieux@gmail.com
 
     Requiered from slicer app (PrusaSlicer / SuperSlicer)
     Print Settings > Output Options > Post-processing script : "PythonPath\python.exe" "PythonScript\convert_png-thumbs_to_mks-thumbs.py"
