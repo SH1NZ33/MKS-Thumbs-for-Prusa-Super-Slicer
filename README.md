@@ -24,3 +24,5 @@ At each slicing, the script will automatically start replacing all the previews 
 ![scr03](scr03.png)
 ![scr04](scr04.jpg)
 ![scr05](scr05.jpg)
+![scr06](scr06.jpg)
+![scr07](scr07.jpg)
