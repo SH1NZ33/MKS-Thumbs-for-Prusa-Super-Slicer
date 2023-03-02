@@ -1,7 +1,7 @@
 # MKS-Thumbs-for-Prusa-Super-Slicer
 Optimized for Wanaho D12 printer
 
-Convert PNG thumbnails from Gcode to MKS thumbnails
+Python script converting GCODE containing PNG previews into MKS compatible previews (Wanhao D12, etc).
 
 Configuration required in the slicer:
 
@@ -26,3 +26,5 @@ At each slicing, the script will automatically start replacing all the previews 
 ![scr05](scr05.jpg)
 ![scr06](scr06.jpg)
 ![scr07](scr07.jpg)
+
+As you seen, the color is not quite accurate for the large thumbnail, and I haven't found what needs to be done even by modifying the order of the RGB channels, swapping, etc. It's not a big problem for now.
